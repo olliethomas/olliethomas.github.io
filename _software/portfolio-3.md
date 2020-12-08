@@ -1,6 +1,6 @@
 ---
-title: "EthicML"
-excerpt: "Fairness in Machine Learning Evaluation Library"
+title: "Causal Discovery Tool"
+excerpt: "Learn Causal Models from data"
 collection: software
 ---
 
