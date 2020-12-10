@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Fair Machine Learning"
-collection: teaching
+collection: talks
 type: "Summer School"
 permalink: /teaching/2020-lviv-summer-school
 venue: "Ukranian Catholic University, Faculty of Applied Sciences"

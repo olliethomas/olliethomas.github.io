@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Fair Machine Learning"
-collection: teaching
+collection: talks
 type: "Summer School"
 permalink: /teaching/2019-discus-summer-school
 venue: "University of Sussex, Data Intensive Science Centre"
