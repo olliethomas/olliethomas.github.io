@@ -4,4 +4,7 @@ excerpt: "Fairness in Machine Learning Evaluation Library"
 collection: software
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+EthicML is a flexible, typed, library for evaluating fairness-enhancing machine learning models on a range of datasets.
+
+- [GitHub](https://github.com/predictive-analytics-lab/EthicML)
+- [Docs](https://wearepal.ai/EthicML/)

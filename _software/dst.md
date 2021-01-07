@@ -4,4 +4,8 @@ excerpt: "Type Stubs for Python"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Data Science Types (DST) is a [PEP-561](https://www.python.org/dev/peps/pep-0561/) compliant, type-stub only package for some of the most used libraries in data science.
+This project was started by my colleague Thomas Kehrenberg. 
+I am a maintainer.
+
+- [GitHub](https://github.com/predictive-analytics-lab/data-science-types)
