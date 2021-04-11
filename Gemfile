@@ -24,4 +24,7 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+  gem "webrick"
 end
+
+gem "i18n", "~> 0.9.5"
