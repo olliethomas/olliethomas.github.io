@@ -8,13 +8,12 @@ date: 2018-11-01
 location: "Brighton, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## Overview
+Topics in Computer Science is a module exclusively available to students on the Computer Science integrated masters course at the University of Sussex.
+It comprises of 6 topics of interest from research groups within the Department of Informatics.
 
-Heading 1
-======
+Along with my colleage, Thomas Kehrenberg, I presented two lectures and two seminars on my PhD research topic: Algorithmic Fairness. 
 
-Heading 2
-======
-
-Heading 3
-======
+### Materials
+[Part 1](https://wearepal.ai/presentations/algo-fairness-part1.html#/)
+| [Part 2](https://wearepal.ai/presentations/algo-fairness-part2.html#/)

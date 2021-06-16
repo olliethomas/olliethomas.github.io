@@ -8,13 +8,10 @@ date: 2019-08-20
 location: "Brighton, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## Overview
 
-Heading 1
-======
+I presented on Algorithmic Fairness at the Data Intensive Sciences Centre at the University of Sussex Summer School as part of a workstream on transparency and ethical use of data.
 
-Heading 2
-======
-
-Heading 3
-======
+### Materials
+[Slides](https://wearepal.ai/presentations/mlss.html#/)
+| [Exercise](https://tinyurl.com/ethicml)

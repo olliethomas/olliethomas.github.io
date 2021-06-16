@@ -8,13 +8,18 @@ date: 2020-08-01
 location: "Lviv, Ukraine"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## Overview
+I gave a talk on the topic of Algorithmic Fairness to students at the Lviv Machine Learning Summer School.
 
-Heading 1
-======
+### Materials
+[Slides](https://wearepal.ai/presentations/lviv.html#/)
+] [Exercise](https://tinyurl.com/ethicml)
 
-Heading 2
-======
+### Feedback
+"The presentation was very interesting, and was presented in a way which kept the problem in context."
 
-Heading 3
-======
+"It was helpful to see a theoretically grounded take on fairness in ML with ready-to-implement methods."
+
+"A huge amount of knowledge well transferred."
+
+Estimate the course generally: 9/10
