@@ -8,7 +8,6 @@ date: 2018-11-01
 location: "Brighton, UK"
 ---
 
-## Overview
 Topics in Computer Science is a module exclusively available to students on the Computer Science integrated masters course at the University of Sussex.
 It comprises of 6 topics of interest from research groups within the Department of Informatics.
 

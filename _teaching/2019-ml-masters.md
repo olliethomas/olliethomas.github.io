@@ -8,6 +8,5 @@ date: 2019-04-30
 location: "Brighton, UK"
 ---
 
-## Overview
 At the University of Sussex, we provide an M.Sc. course in Machine Learning.
 I presented the lecture on Logistic Regression. 
