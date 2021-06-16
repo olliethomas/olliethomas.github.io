@@ -8,7 +8,6 @@ date: 2020-08-01
 location: "Lviv, Ukraine"
 ---
 
-## Overview
 I gave a talk on the topic of Algorithmic Fairness to students at the Lviv Machine Learning Summer School.
 
 ### Materials

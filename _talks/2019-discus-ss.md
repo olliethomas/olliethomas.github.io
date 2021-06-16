@@ -8,8 +8,6 @@ date: 2019-08-20
 location: "Brighton, UK"
 ---
 
-## Overview
-
 I presented on Algorithmic Fairness at the Data Intensive Sciences Centre at the University of Sussex Summer School as part of a workstream on transparency and ethical use of data.
 
 ### Materials
