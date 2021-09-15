@@ -16,4 +16,5 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 {% endfor %}
 
 ### Miscellaneous
-**Reviewer for**: AAAI, CVPR, ICML, TPAMI
+- **Reviewer** for: AAAI, CVPR, ICML, TPAMI
+- **Session Chair** at ECML 2021 (DAMI Journal Track)
