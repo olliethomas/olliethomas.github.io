@@ -14,7 +14,7 @@ What if we make the learned representation space constrained to be that of the i
 
 Bibtex:
 ```bibtex
-@InProceedings{Quadrianto_2019_CVPR,
+@InProceedings{QuaShaTho_CVPR_2019,
     author    = {Quadrianto, Novi and 
                  Sharmanska, Viktoriia and 
                  Thomas, Oliver},
