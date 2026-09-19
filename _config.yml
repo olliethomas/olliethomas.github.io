@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Oliver Thomas"
 title_separator          : "-"
 name                     : &name "Oliver Thomas"
-description              : &description "PhD student interested in Fair Representations of Data to tackle bias in Machine Learning."
+description              : &description "AI engineer. I build production prediction platforms end to end; my PhD is in fair representation learning."
 url                      : https://olliethomas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "olliethomas/olliethomas.github.io"
@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ollie Thomas"
+  name             : "Dr Oliver Thomas"
   avatar           : "ot.png"
-  bio              : "PhD student @ Predictive Analytics Lab, University of Sussex"
+  bio              : "AI Engineer — production prediction platforms. PhD in fair representation learning."
   location         : "Brighton, UK"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.co.uk/citations?user=71NoBH4AAAAJ"
-  email            : "ot44@sussex.ac.uk"
+  email            : "oliverthomas@outlook.com"
   researchgate     : "https://www.researchgate.net/profile/Oliver-Thomas-17" # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://wearepal.ai/"
+  uri              : "https://olliethomas.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "oliver-thomas-32b79228"
+  linkedin         : "oliver-t-thomas"
   orcid            : "https://orcid.org/0000-0001-8162-9633"
   pinterest        :
   soundcloud       :
