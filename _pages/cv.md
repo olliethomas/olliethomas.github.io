@@ -20,14 +20,16 @@ Education
 
 Work experience
 ======
-* **Aug 2024 – present: AI Engineer**
+* **Aug 2024 – present: Senior Engineer (AI & ML)**
   * Scoreline (Fantasy Football Hub)
   * Own the technical direction of the AI function: the reference architecture for a
-    multi-sport prediction platform, the organisation-wide backend testing standard, and
-    model architecture across team strength, expected minutes and points prediction.
-  * Defined what a model has to satisfy to reach production — time-based evaluation
-    splits, domain validation metrics, and checks for statistical degeneracy.
-  * Extended the platform from football to cricket.
+    multi-sport prediction platform, the predictions platform's backend testing
+    standard, and model architecture across team strength, expected minutes and points
+    prediction.
+  * Defined what a model has to satisfy to reach production: time-based evaluation
+    splits and domain validation metrics, enforced through backtesting.
+  * Proved the architecture on Wickets, a cricket product, before it was adopted into
+    the main platform.
 
 * **Jan – Sep 2022, Sep 2023 – Aug 2024: Postdoctoral Research Fellow**
   * Predictive Analytics Lab, University of Sussex
@@ -47,8 +49,8 @@ Work experience
 * **Sep 2017 – Sep 2018: Technology Graduate**
   * American Express
   * Teams worked: 
-    - Data Architecture — data access APIs and database migrations for a move to microservices
-    - Enterprise Cloud Platform — advising development teams adopting cloud systems
+    - Data Architecture: data access APIs and database migrations for a move to microservices
+    - Enterprise Cloud Platform: advising development teams adopting cloud systems
 
 * **Summer 2016: Technology Intern**
   * American Express

@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Oliver Thomas"
 title_separator          : "-"
 name                     : &name "Oliver Thomas"
-description              : &description "AI engineer. I build production prediction platforms end to end; my PhD is in fair representation learning."
+description              : &description "Senior Engineer, Machine Learning & AI. I build production prediction platforms end to end; my PhD is in fair representation learning."
 url                      : https://olliethomas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "olliethomas/olliethomas.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr Oliver Thomas"
   avatar           : "ot.png"
-  bio              : "AI Engineer — production prediction platforms. PhD in fair representation learning."
+  bio              : "Senior Engineer, Machine Learning & AI: production prediction platforms. PhD in fair representation learning."
   location         : "Brighton, UK"
   employer         :
   pubmed           :

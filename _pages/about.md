@@ -10,16 +10,18 @@ redirect_from:
 
 I'm a machine learning engineer in Brighton, UK.
 
-I build and own production prediction platforms end to end — model architecture through
+I build and own production prediction platforms end to end: model architecture through
 to the infrastructure that serves them, and the evaluation that decides whether a model
 is allowed near production at all. Recently that has meant forecasting for consumer
 sports products: constrained optimisation over predicted outcomes, fed by noisy
 third-party data against fixed deadlines, where prediction quality *is* the product.
 
 The part I find most interesting is the part that isn't modelling. Deciding what a model
-has to satisfy before it ships — time-based evaluation splits, domain validation metrics,
-checks for the ways a model can be quietly degenerate rather than loudly wrong — tends to
-matter more than the architecture, and gets written about less.
+has to satisfy before it ships: time-based evaluation splits and domain validation
+metrics, enforced through backtesting. And once it's live, watching for it degrading
+quietly rather than failing loudly: mode collapse, shifts in the input data
+distribution. That tends to matter more than the architecture, and gets written about
+less.
 
 ## Research
 
@@ -29,8 +31,8 @@ representation learning that stays in the data domain** rather than an uninterpr
 latent space, so per-sample information can be inspected and explained to the people who
 have to act on it. You can [read the thesis here](https://olliethomas.github.io/thesis/).
 
-That thread — making machine learning legible and operable by people who aren't the
-person who built it — runs through most of what I do, research or otherwise.
+That thread (making machine learning legible and operable by people who aren't the
+person who built it) runs through most of what I do, research or otherwise.
 
 - *Discovering Fair Representations in the Data Domain*, **CVPR 2019**
 - *Null-Sampling for Interpretable and Fair Representations*, **ECCV 2020**
