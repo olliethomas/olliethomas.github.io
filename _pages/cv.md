@@ -20,9 +20,16 @@ Education
 
 Work experience
 ======
-* **Aug 2024 – present: Senior Engineer (AI & ML)**
+* **Oct 2026 – present: Senior Engineer (AI & Optimisation)**
+  * Metasonixx Ltd
+  * Using AI and advanced optimisation techniques to produce novel acoustic metamaterial
+    designs.
+  * Turning the team's research into a reusable, reproducible and tested system built in
+    Python.
+
+* **Aug 2024 – Sep 2026: Senior Engineer (AI & ML)**
   * Scoreline (Fantasy Football Hub)
-  * Own the technical direction of the AI function: the reference architecture for a
+  * Owned the technical direction of the AI function: the reference architecture for a
     multi-sport prediction platform, the predictions platform's backend testing
     standard, and model architecture across team strength, expected minutes and points
     prediction.
@@ -36,7 +43,7 @@ Work experience
   * The second appointment held through the Basque Center for Applied Mathematics (BCAM), Bilbao.
   * Developing other researchers and maintaining the lab's shared engineering practice,
     alongside contributing to projects as a technical generalist.
-  * Authored and maintained EthicML, the lab's fair-ML benchmarking framework.
+  * Lead author of the lab's open-source experiment framework.
 
 * **Sep 2022 – Sep 2023: Career break**
   * Travel across Central and South America following completion of the PhD.
