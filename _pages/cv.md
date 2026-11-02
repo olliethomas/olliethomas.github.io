@@ -15,7 +15,10 @@ Education
   * Thesis: [*Fair Representations in the Data Domain*](https://hdl.handle.net/10779/uos.23491859)
   * Supervisor: Prof. Novi Quadrianto
   * First year part-time, alongside a graduate role at American Express
+  * Built adversarial and normalising-flow models that learn fair representations which
+    system designers and stakeholders can inspect
 * **B.Sc. (Hons) Computer Science**, First Class, University of Sussex, 2013 – 2017
+  * Dissertation: *Learning Using Privileged Information: A Unified Approach*
   * Faculty prizes for Outstanding Computer Science Student and Best AI Final Year Project
 
 Work experience
@@ -28,15 +31,20 @@ Work experience
     Python.
 
 * **Aug 2024 – Sep 2026: Senior Engineer (AI & ML)**
-  * Scoreline (Fantasy Football Hub)
-  * Owned the technical direction of the AI function: the reference architecture for a
-    multi-sport prediction platform, the predictions platform's backend testing
-    standard, and model architecture across team strength, expected minutes and points
-    prediction.
+  * Scoreline AI
+  * Owned the technical direction of the AI function for Fantasy Football Hub and
+    Wickets.ai, Scoreline's fantasy football and fantasy cricket products: the reference
+    architecture for a multi-sport prediction platform, the predictions platform's
+    backend testing standard, and models across team strength, expected minutes and
+    points prediction.
+  * Led the rebuild of Fantasy Football Hub's prediction system, using proven, modern
+    architecture (normalised data, event-driven services, serverless infrastructure) to
+    make it faster, cheaper to run and safer to change.
+  * Built neural networks in PyTorch, from simple baselines to temporal attention over a
+    player's recent matches.
   * Defined what a model has to satisfy to reach production: time-based evaluation
-    splits and domain validation metrics, enforced through backtesting.
-  * Proved the architecture on Wickets, a cricket product, before it was adopted into
-    the main platform.
+    splits and domain validation metrics, checked through backtesting.
+  * Proved the architecture on Wickets.ai before it was adopted into the main platform.
 
 * **Jan – Sep 2022, Sep 2023 – Aug 2024: Postdoctoral Research Fellow**
   * Predictive Analytics Lab, University of Sussex
@@ -46,12 +54,13 @@ Work experience
   * Lead author of the lab's open-source experiment framework.
 
 * **Sep 2022 – Sep 2023: Career break**
-  * Travel across Central and South America following completion of the PhD.
+  * Travel across Central and South America after submitting my PhD.
 
 * **Feb 2020 – Jan 2021: Consultancy Project Lead**
   * Predictive Analytics Lab, University of Sussex
-  * Managed a team of five delivering a standalone application for a charity client,
-    built on research into Bayesian Network Structure Learning.
+  * Led five researchers to deliver a documented Python library for a charity client,
+    learning causal structure (Bayesian networks, via MCMC) from questionnaire data and
+    estimating intervention effects.
 
 * **Sep 2017 – Sep 2018: Technology Graduate**
   * American Express
@@ -65,8 +74,8 @@ Work experience
   
 Skills
 ======
-* Python, PyTorch, scikit-learn, XGBoost, Pandas/NumPy
-* Model evaluation and backtesting; experiment tooling (Optuna, Hydra)
+* Python, PyTorch, Lightning, Weights & Biases, scikit-learn, XGBoost, Pandas/NumPy
+* Model evaluation, backtesting and monitoring; experiment tooling (Optuna, Hydra)
 * Systems architecture, Postgres, Pulumi, Cloud Run, Pub/Sub
 * Constrained optimisation (MILP)
   

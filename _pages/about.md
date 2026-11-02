@@ -10,26 +10,26 @@ redirect_from:
 
 I'm a machine learning engineer in Brighton, UK.
 
-I build and own production prediction platforms end to end: model architecture through
-to the infrastructure that serves them, and the evaluation that decides whether a model
-is allowed near production at all. Recently that has meant forecasting for consumer
+I design and build production machine learning systems end to end: from whiteboarding
+the problem, through training models and writing the services that run them, to
+automating the monitoring that keeps them improving. Recently that has meant forecasting for consumer
 sports products: constrained optimisation over predicted outcomes, fed by noisy
 third-party data against fixed deadlines, where prediction quality *is* the product.
 
-The part I find most interesting is the part that isn't modelling. Deciding what a model
-has to satisfy before it ships: time-based evaluation splits and domain validation
-metrics, enforced through backtesting. And once it's live, watching for it degrading
-quietly rather than failing loudly: mode collapse, shifts in the input data
-distribution. That tends to matter more than the architecture, and gets written about
-less.
+The part I find most interesting is the part that isn't modelling: the systems and
+processes that let a team ship models with confidence. Before a model ships, that means
+time-based evaluation splits and domain validation metrics, checked through backtesting.
+Once it's live, it means catching it degrading quietly rather than failing loudly:
+accuracy slipping, or predictions collapsing onto a single value. That tends to matter
+more than the architecture, and gets written about less.
 
 ## Research
 
 My PhD, at the University of Sussex under [Prof. Novi
 Quadrianto](https://scholar.google.com/citations?user=n9nXAPcAAAAJ), was on **fair
-representation learning that stays in the data domain** rather than an uninterpretable
-latent space, so per-sample information can be inspected and explained to the people who
-have to act on it. You can [read the thesis here](https://olliethomas.github.io/thesis/).
+representations that system designers and stakeholders can inspect**, rather than an
+uninterpretable latent space, so the changes made for fairness can be interpreted and
+explained to the people who have to act on them. You can [read the thesis here](https://olliethomas.github.io/thesis/).
 
 That thread (making machine learning legible and operable by people who aren't the
 person who built it) runs through most of what I do, research or otherwise.
