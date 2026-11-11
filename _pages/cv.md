@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV as a PDF]({{ base_path }}/files/Oliver-Thomas-CV.pdf)
+
 Education
 ======
 * **Ph.D. in Machine Learning**, University of Sussex, 2017 – 2022
